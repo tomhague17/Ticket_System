@@ -1,0 +1,19 @@
+4
+Pam Royal
+Michael Cretu
+Manfred Thiers
+Sandra Cretu
+5
+Magpie Line
+5.59
+Cross City
+2.50
+Reiver Line
+6.50
+Hadrian Line
+7.35
+Tyne Loop
+2.50
+0.10
+0.15
+0.25

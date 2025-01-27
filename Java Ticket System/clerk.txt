@@ -1,0 +1,605 @@
+C:\Users\tom\.jdks\openjdk-23\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.2\lib\idea_rt.jar=64432:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\tom\Documents\Uni\Programming\CSC8023 Assessed Coursework\out\production\CSC8023 Assessed Coursework" MainProgram
+File has been successfully read in.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: t
+Ticket: Cross City, Price: £2.50
+Ticket: Hadrian Line, Price: £7.35
+Ticket: Magpie Line, Price: £5.59
+Ticket: Reiver Line, Price: £6.50
+Ticket: Tyne Loop, Price: £2.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: c
+First Name: Michael Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Sandra Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Pam Last Name: Royal
+No tickets owned.
+No price information.
+First Name: Manfred Last Name: Thiers
+No tickets owned.
+No price information.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: 234324
+Invalid option! Please select t, c, a ,r or f
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: asdsadsa
+Invalid option! Please select t, c, a ,r or f
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+fsdfsd
+Sorry, the customer you entered isn't found in this system. You're welcome to try again.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+32423423
+Sorry, the customer you entered isn't found in this system. You're welcome to try again.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Tyne Loop
+Please enter the quantity of tickets you wish to buy:
+1
+You have added a quantity of: 1, of Ticket: Tyne Loop, Price: £2.50 each.
+The original cost of purchasing these tickets: £2.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: c
+First Name: Michael Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Sandra Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Pam Last Name: Royal
+Ticket: Tyne Loop, Price: £2.50, Quantity: 1
+Original Cost of the tickets above: £2.50
+The original cost of all their tickets: £2.50.
+The discounted cost of all their tickets: £2.50.
+First Name: Manfred Last Name: Thiers
+No tickets owned.
+No price information.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Cross City
+Please enter the quantity of tickets you wish to buy:
+dsfsdfsf
+Please enter a whole number for the quantity.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Cross City
+Please enter the quantity of tickets you wish to buy:
+-1
+Invalid ticket quantity, please try again.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Cross City
+Please enter the quantity of tickets you wish to buy:
+0
+Invalid ticket quantity, please try again.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Cross City
+Please enter the quantity of tickets you wish to buy:
+9.54
+Please enter a whole number for the quantity.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Cross City
+Please enter the quantity of tickets you wish to buy:
+1
+You have added a quantity of: 1, of Ticket: Cross City, Price: £2.50 each.
+The original cost of purchasing these tickets: £2.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Magpie Line
+Please enter the quantity of tickets you wish to buy:
+1
+You have added a quantity of: 1, of Ticket: Magpie Line, Price: £5.59 each.
+The original cost of purchasing these tickets: £5.59
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: c
+First Name: Michael Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Sandra Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Pam Last Name: Royal
+Ticket: Tyne Loop, Price: £2.50, Quantity: 1
+Original Cost of the tickets above: £2.50
+Ticket: Magpie Line, Price: £5.59, Quantity: 1
+Original Cost of the tickets above: £5.59
+Ticket: Cross City, Price: £2.50, Quantity: 1
+Original Cost of the tickets above: £2.50
+The original cost of all their tickets: £10.59.
+The discounted cost of all their tickets: £10.59.
+First Name: Manfred Last Name: Thiers
+No tickets owned.
+No price information.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Hadrian Line
+Customer already holds the max 3 different tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: r
+Please enter the first name and surname of the customer wishing to remove a ticket:
+Pam Royal
+Please enter the name of the ticket you want to remove:
+Tyne Loop
+Please enter the quantity of tickets you want to remove:
+1
+You have removed 1 tickets of the: Ticket: Tyne Loop, Price: £2.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Pam Royal
+Please enter the name of the ticket you would like to buy:
+Hadrian Line
+Please enter the quantity of tickets you wish to buy:
+1
+You have added a quantity of: 1, of Ticket: Hadrian Line, Price: £7.35 each.
+The original cost of purchasing these tickets: £7.35
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: c
+First Name: Michael Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Sandra Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Pam Last Name: Royal
+Ticket: Hadrian Line, Price: £7.35, Quantity: 1
+Original Cost of the tickets above: £7.35
+Ticket: Magpie Line, Price: £5.59, Quantity: 1
+Original Cost of the tickets above: £5.59
+Ticket: Cross City, Price: £2.50, Quantity: 1
+Original Cost of the tickets above: £2.50
+The original cost of all their tickets: £15.44.
+The discounted cost of all their tickets: £15.44.
+First Name: Manfred Last Name: Thiers
+No tickets owned.
+No price information.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Sandra Cretu
+Please enter the name of the ticket you would like to buy:
+Tyne Loop
+Please enter the quantity of tickets you wish to buy:
+30
+You have added a quantity of: 30, of Ticket: Tyne Loop, Price: £2.50 each.
+The original cost of purchasing these tickets: £75.00
+Discounted Price for you to pay: £56.25
+Congratulations, you have received a discount of 25.0% for your tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: r
+Please enter the first name and surname of the customer wishing to remove a ticket:
+Sandra Cretu
+Please enter the name of the ticket you want to remove:
+Tyne Loop
+Please enter the quantity of tickets you want to remove:
+0
+Invalid ticket quantity, please try again.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: r
+Please enter the first name and surname of the customer wishing to remove a ticket:
+Sandra Cretu
+Please enter the name of the ticket you want to remove:
+Tyne Loop
+Please enter the quantity of tickets you want to remove:
+-1
+Invalid ticket quantity, please try again.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: r
+Please enter the first name and surname of the customer wishing to remove a ticket:
+Sandra Cretu
+Please enter the name of the ticket you want to remove:
+Tyne Loop
+Please enter the quantity of tickets you want to remove:
+7.45
+Please enter a whole number for the quantity.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: r
+Please enter the first name and surname of the customer wishing to remove a ticket:
+Sandra Cretu
+Please enter the name of the ticket you want to remove:
+Tyne Loop
+Please enter the quantity of tickets you want to remove:
+100
+Customer unfortunately doesn't own enough tickets to remove that quantity, try a lower amount.
+They own 30 of the Ticket: Tyne Loop, Price: £2.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: r
+Please enter the first name and surname of the customer wishing to remove a ticket:
+Sandra Cretu
+Please enter the name of the ticket you want to remove:
+Tyne Loop
+Please enter the quantity of tickets you want to remove:
+15
+You have removed 15 tickets of the: Ticket: Tyne Loop, Price: £2.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: c
+First Name: Michael Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Sandra Last Name: Cretu
+Ticket: Tyne Loop, Price: £2.50, Quantity: 15
+Original Cost of the tickets above: £37.50
+The original cost of all their tickets: £37.50.
+The discounted cost of all their tickets: £31.88.
+First Name: Pam Last Name: Royal
+Ticket: Hadrian Line, Price: £7.35, Quantity: 1
+Original Cost of the tickets above: £7.35
+Ticket: Magpie Line, Price: £5.59, Quantity: 1
+Original Cost of the tickets above: £5.59
+Ticket: Cross City, Price: £2.50, Quantity: 1
+Original Cost of the tickets above: £2.50
+The original cost of all their tickets: £15.44.
+The discounted cost of all their tickets: £15.44.
+First Name: Manfred Last Name: Thiers
+No tickets owned.
+No price information.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Sandra Cretu
+Please enter the name of the ticket you would like to buy:
+Magpie Line
+Please enter the quantity of tickets you wish to buy:
+15
+You have added a quantity of: 15, of Ticket: Magpie Line, Price: £5.59 each.
+The original cost of purchasing these tickets: £83.85
+Discounted Price for you to pay: £62.89
+Congratulations, you have received a discount of 25.0% for your tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Manfred Thiers
+Please enter the name of the ticket you would like to buy:
+Reiver Line
+Please enter the quantity of tickets you wish to buy:
+6
+You have added a quantity of: 6, of Ticket: Reiver Line, Price: £6.50 each.
+The original cost of purchasing these tickets: £39.00
+Discounted Price for you to pay: £35.10
+Congratulations, you have received a discount of 10.0% for your tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Manfred Thiers
+Please enter the name of the ticket you would like to buy:
+Hadrian Line
+Please enter the quantity of tickets you wish to buy:
+5
+You have added a quantity of: 5, of Ticket: Hadrian Line, Price: £7.35 each.
+The original cost of purchasing these tickets: £36.75
+Discounted Price for you to pay: £31.24
+Congratulations, you have received a discount of 15.0% for your tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Manfred Thiers
+Please enter the name of the ticket you would like to buy:
+Cross City
+Please enter the quantity of tickets you wish to buy:
+15
+You have added a quantity of: 15, of Ticket: Cross City, Price: £2.50 each.
+The original cost of purchasing these tickets: £37.50
+Discounted Price for you to pay: £28.13
+Congratulations, you have received a discount of 25.0% for your tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: c
+First Name: Michael Last Name: Cretu
+No tickets owned.
+No price information.
+First Name: Sandra Last Name: Cretu
+Ticket: Tyne Loop, Price: £2.50, Quantity: 15
+Original Cost of the tickets above: £37.50
+Ticket: Magpie Line, Price: £5.59, Quantity: 15
+Original Cost of the tickets above: £83.85
+The original cost of all their tickets: £121.35.
+The discounted cost of all their tickets: £91.01.
+First Name: Pam Last Name: Royal
+Ticket: Hadrian Line, Price: £7.35, Quantity: 1
+Original Cost of the tickets above: £7.35
+Ticket: Magpie Line, Price: £5.59, Quantity: 1
+Original Cost of the tickets above: £5.59
+Ticket: Cross City, Price: £2.50, Quantity: 1
+Original Cost of the tickets above: £2.50
+The original cost of all their tickets: £15.44.
+The discounted cost of all their tickets: £15.44.
+First Name: Manfred Last Name: Thiers
+Ticket: Hadrian Line, Price: £7.35, Quantity: 5
+Original Cost of the tickets above: £36.75
+Ticket: Reiver Line, Price: £6.50, Quantity: 6
+Original Cost of the tickets above: £39.00
+Ticket: Cross City, Price: £2.50, Quantity: 15
+Original Cost of the tickets above: £37.50
+The original cost of all their tickets: £113.25.
+The discounted cost of all their tickets: £84.94.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Manfred Thiers
+Please enter the name of the ticket you would like to buy:
+Tyne Loop
+Customer already holds the max 3 different tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Michael Cretu
+Please enter the name of the ticket you would like to buy:
+Tyne Loop
+Please enter the quantity of tickets you wish to buy:
+3
+You have added a quantity of: 3, of Ticket: Tyne Loop, Price: £2.50 each.
+The original cost of purchasing these tickets: £7.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: a
+Please enter the first name and surname of the customer wishing to buy a ticket:
+Michael Cretu
+Please enter the name of the ticket you would like to buy:
+Cross City
+Please enter the quantity of tickets you wish to buy:
+20
+You have added a quantity of: 20, of Ticket: Cross City, Price: £2.50 each.
+The original cost of purchasing these tickets: £50.00
+Discounted Price for you to pay: £42.50
+Congratulations, you have received a discount of 15.0% for your tickets.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: t
+Ticket: Cross City, Price: £2.50
+Ticket: Hadrian Line, Price: £7.35
+Ticket: Magpie Line, Price: £5.59
+Ticket: Reiver Line, Price: £6.50
+Ticket: Tyne Loop, Price: £2.50
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: c
+First Name: Michael Last Name: Cretu
+Ticket: Tyne Loop, Price: £2.50, Quantity: 3
+Original Cost of the tickets above: £7.50
+Ticket: Cross City, Price: £2.50, Quantity: 20
+Original Cost of the tickets above: £50.00
+The original cost of all their tickets: £57.50.
+The discounted cost of all their tickets: £48.88.
+First Name: Sandra Last Name: Cretu
+Ticket: Tyne Loop, Price: £2.50, Quantity: 15
+Original Cost of the tickets above: £37.50
+Ticket: Magpie Line, Price: £5.59, Quantity: 15
+Original Cost of the tickets above: £83.85
+The original cost of all their tickets: £121.35.
+The discounted cost of all their tickets: £91.01.
+First Name: Pam Last Name: Royal
+Ticket: Hadrian Line, Price: £7.35, Quantity: 1
+Original Cost of the tickets above: £7.35
+Ticket: Magpie Line, Price: £5.59, Quantity: 1
+Original Cost of the tickets above: £5.59
+Ticket: Cross City, Price: £2.50, Quantity: 1
+Original Cost of the tickets above: £2.50
+The original cost of all their tickets: £15.44.
+The discounted cost of all their tickets: £15.44.
+First Name: Manfred Last Name: Thiers
+Ticket: Hadrian Line, Price: £7.35, Quantity: 5
+Original Cost of the tickets above: £36.75
+Ticket: Reiver Line, Price: £6.50, Quantity: 6
+Original Cost of the tickets above: £39.00
+Ticket: Cross City, Price: £2.50, Quantity: 15
+Original Cost of the tickets above: £37.50
+The original cost of all their tickets: £113.25.
+The discounted cost of all their tickets: £84.94.
+t: Display all ticket information
+c: Display all customer information
+a: Add new tickets to a customer account
+r: Delete tickets from a customer account
+f: Exit the system
+Please note that entering customer and ticket names is case-sensitive.
+Please enter one of the above options: f
+Goodbye! See you soon.
+
+Process finished with exit code 0
